@@ -1,0 +1,18 @@
+sweet alert 2. se utilizan para poner alertas más estéticas
+se copia la cd en el index.handlebars 
+el sweet alert se crea en el main.js
+
+el sweet lleva un objeto con los datos que quiero que se muestren
+
+creamos dentro de nuestro main js el usuario 
+allowOutsideClick: false, ? que hace
+
+
+-------------------------
+Glitch.com - - -> plataforma para hacer deploy de nuestras aplicaciones
+
+Qué es un deploy ?
+Que sea accesible para el resto del mundo mediante un link.
+
+1. Subir el código a github
+2. Script start con node en el package.json
